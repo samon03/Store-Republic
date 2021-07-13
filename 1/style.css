@@ -1,0 +1,48 @@
+.container {
+    /* text-align: center; */
+    padding: 8rem;
+    display: flex;
+}
+
+.flex {
+    display: flex;  
+}
+
+.box-long {
+   width: 200px;
+   height: 400px;
+   background-color: #f2f2f2;
+}
+
+.title {
+    color: #425066;
+}
+
+.para {
+  color: #616161;
+  font-size: 12px;
+}
+
+.gap {
+    padding: 0.8rem;
+}
+
+.read {
+    color: #425066;
+}
+
+.fil-left {
+    margin-left: 0.8rem;
+}
+
+.box-wid {
+    width: 410px;
+    height: 200px;
+    background-color: #f2f2f2;
+ }
+ 
+.box-box  {
+    width: 200px;
+    height: 200px;
+    background-color: #f2f2f2;
+}
